@@ -1,0 +1,7 @@
+----------------------------------------------------------------------
+1º: Abre el archivo .bat llamado "Instalar"
+2º: Az click en la barra de archivos y pones "cmd"
+3º: Una vez que el CMD esté abierto, debes poner el siguiente comando:
+[ TrackPhone.py ] -h (Y vas a ver el menú de opciones del programa)
+----------------------------------------------------------------------
+CUALQUIER DUDA, PREGUNTE EN EL DISCORD OFICIAL: 
